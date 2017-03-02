@@ -63,3 +63,6 @@ gem 'simple_form'
 gem 'font-awesome-rails'
 
 gem 'aasm'
+
+gem 'carrierwave-qiniu'
+gem 'qiniu-rs'
